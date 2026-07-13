@@ -1,4 +1,4 @@
-# 🦩 PINK FLAINGO CAPSTONE
+# 🦩 PINK FLAMINGO CAPSTONE
 
 > Capstone project for Big Data Specialization - San Diego University
 
